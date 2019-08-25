@@ -7,3 +7,8 @@ Bootstrap Portfolio
 This is a version of my basic portfolio built using Bootstrap.
 
 author: Maribeth Hardwick
+
+
+
+https://mbhardwick.github.io/Bootstrap-Portfolio/ https://github.com/mbhardwick/Bootstrap-Portfolio
+https://mbhardwick.github.io/Responsive-Portfolio/ https://github.com/mbhardwick/Responsive-Portfolio
